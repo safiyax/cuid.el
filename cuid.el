@@ -1,6 +1,6 @@
 ;;; cuid.el --- Generate collision resistent cuid2 ids -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2023 Zeeshan Hooda
+;; Copyright (C) 2023 Safiya Hooda
 ;;
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License
@@ -17,7 +17,7 @@
 ;; Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
-;; Author: Zeeshan Hooda <zee@sparselabs.org>
+;; Author: Safiya Hooda <safiya@sparselabs.org>
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: wp tools files convenience data
